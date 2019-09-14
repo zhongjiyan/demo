@@ -1,0 +1,40 @@
+
+#father{
+    border: 0px  solid palevioletred;
+    width: 1300px;
+    height: 2000px;
+
+}
+#logo{
+    border: 0px solid blue;
+    width: 1300px;
+    height: 50px;
+}
+.top{
+    border: burlywood 0px;
+    height: 50px;
+    width: 431px;
+    float: left;
+
+}
+#top{
+    padding-top: 12px;
+    height: 38px;
+}
+#picture{
+    border: 0px solid darksalmon;
+    width: 1300px;
+    height: 300px;
+}
+#weibo{
+    border: 0px solid darksalmon;
+    width: 1300px;
+    height:500px ;
+}
+.content{
+    border: 0px solid darksalmon;
+    height: 500px;
+    width: 50%;
+    float: left;
+}
+
